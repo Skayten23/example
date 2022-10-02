@@ -6,6 +6,6 @@ class HomeController extends Controller
 {
     public function __invoke()
     {
-        retutrn ( false );
+        return ( 1);
     }
 }
